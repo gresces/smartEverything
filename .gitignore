@@ -1,0 +1,15 @@
+/MiniCtrl/*.iml
+/MiniCtrl/.gradle
+/MiniCtrl/local.properties
+/MiniCtrl/.idea/caches
+/MiniCtrl/.idea/libraries
+/MiniCtrl/.idea/modules.xml
+/MiniCtrl/.idea/workspace.xml
+/MiniCtrl/.idea/navEditor.xml
+/MiniCtrl/.idea/assetWizardSettings.xml
+/MiniCtrl/.DS_Store
+/MiniCtrl/build
+/MiniCtrl/captures
+/MiniCtrl/.externalNativeBuild
+/MiniCtrl/.cxx
+/MiniCtrl/local.properties
